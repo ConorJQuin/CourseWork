@@ -2,6 +2,7 @@
 - Name: Conor John Quin.
 - Number: 114400402.
 - Assignment: 02.
+-blah
 -}
 
 --this function paints all the walls by calling the other functions
