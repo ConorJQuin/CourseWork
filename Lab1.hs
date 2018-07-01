@@ -2,7 +2,7 @@
 - Name: Conor John Quin.
 - Number: 114400402.
 - Assignment:1
--adding a comment
+-adding a comment to test adds
 -}
 
 module Main where
